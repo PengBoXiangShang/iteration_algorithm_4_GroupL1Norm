@@ -1,5 +1,5 @@
 # iteration_algorithm_4_GroupL1Norm
-Programming implement for "A Brief Tutorial on Group L1-norm"
+This project is the programming implement for "A Brief Tutorial on Group L1-norm"
 
 the corresponding tutorial can be accessed via this link
 
@@ -10,3 +10,5 @@ This algorithm can be used to solve the models in the following papers:
 
 2. P. Xu, Q. Yin, Y. Qi, Y.-Z. Song, Z. Ma, L. Wang, and J. Guo. Instance-level coupled subspace learning for fine-grained sketch-based image retrieval. In ECCV workshops, 2016.
 [paper link](http://www.pengxu.net/document/ECCV2016/ECCVW2016.pdf "please click")
+
+## This project is keeping update.

@@ -1,7 +1,7 @@
 # iteration_algorithm_4_GroupL1Norm
 This project is the programming implement for "A Brief Tutorial on Group L1-norm"
 
-the corresponding tutorial can be accessed via this link
+Please read "tutorial.pdf" for details.
 
 This algorithm can be used to solve the models in the following papers:
 
